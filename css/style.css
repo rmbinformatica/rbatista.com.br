@@ -70,6 +70,15 @@ div.col-md-4 img{
 	right: 130px;
 	left: 0px;
 }
+div.disk p{
+	font-size:30px;
+	text-transform:uppercase;
+	color:#fff;
+	font-weight:400;
+	position: absolute;
+	top: 80px;
+	left: 950px;
+}
 .banner2{
 	min-height:102px!important;
 }
@@ -84,7 +93,7 @@ div.col-md-4 img{
 	font-weight:700;
 	position: absolute;
 	top: 30px;
-	left: 10px;
+	left: -20px;
 
 }
 .header h2,.header h3{
